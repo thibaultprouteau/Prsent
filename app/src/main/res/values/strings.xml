@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Présent</string>
+    <string name="g_rer_cours">Gérer Cours</string>
+    <string name="g_rer_groupes">Gérer Groupes</string>
+    <string name="statistiques">Statistiques</string>
+    <string name="item">Item</string>
+    <string name="title_activity_test">test</string>
+    <string name="title_activity_new">NewActivity</string>
+    <string name="title_activity_gerer_cours">gerer_cours</string>
+    <string name="title_activity_etudiants_groupes">etudiants_groupes</string>
+    <string name="add">Add</string>
+</resources>
